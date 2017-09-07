@@ -1,3 +1,4 @@
-这里是我修改的内容
-我添加了第二行内容
-duang,我还在测试
+function fn()
+{
+	console.log(1);
+}
